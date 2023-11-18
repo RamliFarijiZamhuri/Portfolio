@@ -24,7 +24,7 @@ const HeroSection = () => {
                         <span className="font-semibold text-teal-600">
                             Frontend Developer{" "}
                         </span>
-                        based in Cianjur. Working towards creating software that
+                        from Cianjur, West java. Working towards creating software that
                         makes life easier and more meaningful.
                     </p>
                     <Link to="projects"
