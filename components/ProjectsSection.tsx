@@ -11,7 +11,7 @@ const projects = [
             "Deskripsi belum ada.",
         image: "/Ecommerce.png",
         github: "https://github.com/RamliFarijiZamhuri/Toko-electronic-cahaya-abadi",
-        link: "https://thankfulthoughts.io/",
+        link: "https://cahayaabadielectronic.netlify.app/",
     },
     {
         name: "Anime List",
@@ -24,7 +24,7 @@ const projects = [
         name: "Movie List",
         description:
             "Deskripsi belum ada.",
-        image: "/Movielist.png",
+        image: "/MovieList.png",
         github: "https://github.com/RamliFarijiZamhuri/cuymovielist",
         link: "https://cuymovielist.vercel.app/",
     },
