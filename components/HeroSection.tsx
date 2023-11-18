@@ -36,6 +36,9 @@ const HeroSection = () => {
                         duration={500}>
                         Projects
                     </Link>
+                    <div className="flex flex-row items-center text-center justify-center pt-32">
+                        <HiArrowDown size={35} className="animate-bounce" />
+                    </div>
                 </div>
             </div>
         </section>

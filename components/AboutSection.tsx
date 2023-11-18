@@ -33,14 +33,11 @@ const AboutSection = () => {
                             Hi, my name is Ramli Fariji Zamhuri and I am a{" "}
                             <span className="font-bold">{"highly ambitious"}</span>,
                             <span className="font-bold">{" self-motivated"}</span>, and
-                            <span className="font-bold">{" driven"}</span> Frontend Developer
-                            based in Cianjur.
+                            <span className="font-bold">{" driven"}</span> Frontend Developer.
                         </p>
                         <br />
                         <p>
-                            I graduated from SMK MUTIARA QOLBU CIANJUR, Northridge in 2023
-                            in Computer Engineering and have been working in the
-                            field ever since.
+                            I graduated of Computer Engineering from SMK MUTIARA QOLBU CIANJUR in 2023.
                         </p>
                         <br />
                         <p>
