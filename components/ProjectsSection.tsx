@@ -8,14 +8,14 @@ const projects = [
     {
         name: "E-Commerce",
         description:
-            "Deskripsi belum ada.",
+            "Visit my repository on github.",
         image: "/Ecommerce.png",
         github: "https://github.com/RamliFarijiZamhuri/Toko-electronic-cahaya-abadi",
         link: "https://cahayaabadielectronic.netlify.app/",
     },
     {
         name: "Anime List",
-        description: "Deskripsi belum ada.",
+        description: "Visit my repository on github.",
         image: "/AnimeList.png",
         github: "https://github.com/RamliFarijiZamhuri/cuyanimelist",
         link: "https://cuyanimelist-snowy.vercel.app/",
@@ -23,7 +23,7 @@ const projects = [
     {
         name: "Movie List",
         description:
-            "Deskripsi belum ada.",
+            "Visit my repository on github.",
         image: "/MovieList.png",
         github: "https://github.com/RamliFarijiZamhuri/cuymovielist",
         link: "https://cuymovielist.vercel.app/",
