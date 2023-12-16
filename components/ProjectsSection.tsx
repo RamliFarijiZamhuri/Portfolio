@@ -28,6 +28,14 @@ const projects = [
         github: "https://github.com/RamliFarijiZamhuri/cuymovielist",
         link: "https://cuymovielist.vercel.app/",
     },
+    {
+        name: "Registration Form",
+        description:
+            "Visit my repository on github.",
+        image: "/RegistrationForm.png",
+        github: "https://github.com/RamliFarijiZamhuri/RegistrationForm",
+        link: "https://registrationform-by-rams.vercel.app/",
+    },
 ]
 
 
