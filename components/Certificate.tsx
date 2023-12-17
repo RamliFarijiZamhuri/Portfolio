@@ -2,7 +2,7 @@ import React from "react"
 import Image from "next/image"
 import SlideUp from "./SlideUp"
 
-const projects = [
+const Certificate = [
     {
         name: "Dicoding",
         description:"Descripton not found.",
@@ -16,7 +16,7 @@ const projects = [
 ]
 
 
-const ProjectsSection = () => {
+const CertificateSections = () => {
     return (
         <section className="py-60">
             <h1 className="text-center font-bold text-4xl">
@@ -24,14 +24,14 @@ const ProjectsSection = () => {
                 <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
             </h1>
             <div className="flex flex-col space-y-28">
-                {projects.map((project, idx) => {
+                {Certificate.map((Certificate, idx) => {
                     return (
                         <div key={idx}>
                             <SlideUp offset="-300px 0px -300px 0px">
                                 <div className="flex flex-col  animate-slideUpCubiBezier animation-delay-2 md:flex-row md:space-x-12">
                                     <div className=" md:w-1/2">
                                             <Image
-                                                src={project.image}
+                                                src={Certificate.image}
                                                 alt=""
                                                 width={1000}
                                                 height={1000}
@@ -39,9 +39,9 @@ const ProjectsSection = () => {
                                             />
                                     </div>
                                     <div className="mt-8 md:w-1/2">
-                                        <h1 className="text-4xl font-bold mb-6">{project.name}</h1>
+                                        <h1 className="text-4xl font-bold mb-6">{Certificate.name}</h1>
                                         <p className="text-xl leading-7 mb-4 text-neutral-600 dark:text-neutral-400">
-                                            {project.description}
+                                            {Certificate.description}
                                         </p>
                                     </div>
                                 </div>
@@ -55,4 +55,4 @@ const ProjectsSection = () => {
     )
 }
 
-export default ProjectsSection
+export default CertificateSections

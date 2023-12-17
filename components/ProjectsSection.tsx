@@ -36,6 +36,14 @@ const projects = [
         github: "https://github.com/RamliFarijiZamhuri/RegistrationForm",
         link: "https://registrationform-by-rams.vercel.app/",
     },
+    {
+        name: "Password Generator",
+        description:
+            "Visit my repository on github.",
+        image: "/PasswordGenerator.png",
+        github: "https://github.com/RamliFarijiZamhuri/password-generator",
+        link: "https://password-generator-psi-sandy.vercel.app/",
+    },
 ]
 
 
