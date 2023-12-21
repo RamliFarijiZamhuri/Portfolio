@@ -44,8 +44,15 @@ const projects = [
         github: "https://github.com/RamliFarijiZamhuri/password-generator",
         link: "https://password-generator-psi-sandy.vercel.app/",
     },
+    {
+        name: "Articale",
+        description:
+            "Visit my repository on github.",
+        image: "/PasswordGenerator.png",
+        github: "https://github.com/RamliFarijiZamhuri/artikel-cianjur",
+        link: "https://articale.vercel.app/",
+    },
 ]
-
 
 const ProjectsSection = () => {
     return (
