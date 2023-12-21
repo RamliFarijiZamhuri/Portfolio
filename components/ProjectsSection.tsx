@@ -48,7 +48,7 @@ const projects = [
         name: "Articale",
         description:
             "Visit my repository on github.",
-        image: "/PasswordGenerator.png",
+        image: "/Articale.png",
         github: "https://github.com/RamliFarijiZamhuri/artikel-cianjur",
         link: "https://articale.vercel.app/",
     },
